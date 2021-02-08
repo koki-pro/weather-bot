@@ -8,3 +8,5 @@
 ・rails 6.0.3</br>
 ・postgresql
 
+## 本アプリの使用感
+![image](https://user-images.githubusercontent.com/71375582/107192591-27497780-6a31-11eb-9f59-e0fc26d26b2a.png)
