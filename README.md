@@ -12,4 +12,4 @@
 ![image](https://user-images.githubusercontent.com/71375582/107192591-27497780-6a31-11eb-9f59-e0fc26d26b2a.png)
 
 ## 今後の実装方針
-・各県に対応した天気を返してくれる
+・各県に対応した天気を返す
