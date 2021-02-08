@@ -1,24 +1,5 @@
-# README
+# LINEで雨が降るかどうか教えれくれるbot
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+このbotは、毎朝9時に東京で雨が降るかどうかを通知してくれるbotです
+降水確率が20%以上であれば、傘を持っていくように通達してくれます
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
