@@ -9,7 +9,7 @@
 ・postgresql
 
 ## 本アプリの使用感
-![image](https://user-images.githubusercontent.com/71375582/107192591-27497780-6a31-11eb-9f59-e0fc26d26b2a.png)
+![image](https://user-images.githubusercontent.com/71375582/107900685-1646bc00-6f85-11eb-8ecc-a3623e31063d.png)
 
 ## 今後の実装方針
 ・各県に対応した天気を返す
